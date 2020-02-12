@@ -20,10 +20,25 @@ item {
 
 item {
     id: 5
-    name: 'day_truck_front'
+    name: 'day_small_truck_front'
 }
 
 item {
     id: 6
+    name: 'day_small_truct_front'
+}
+
+item {
+    id: 7
+    name: 'day_truck_front'
+}
+
+item {
+    id: 8
     name: 'day_truck_rear'
+}
+
+item {
+    id: 9
+    name: 'plate'
 }
