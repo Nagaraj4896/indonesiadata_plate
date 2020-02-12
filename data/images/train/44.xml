@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images-indo</folder>
+	<filename>44.jpg</filename>
+	<path>/home/ironman/license-plate-recognition/Prabhu-task/hebe-task/images-indo/44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>day_truck_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1188</xmin>
+			<ymin>245</ymin>
+			<xmax>2551</xmax>
+			<ymax>1677</ymax>
+		</bndbox>
+	</object>
+</annotation>
