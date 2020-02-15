@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images-indo</folder>
+	<folder>train</folder>
 	<filename>38.jpg</filename>
-	<path>/home/ironman/license-plate-recognition/Prabhu-task/hebe-task/images-indo/38.jpg</path>
+	<path>/home/ironman/license-plate-recognition/Prabhu-task/hebe-task/indonesiadata_plate/data/images/train/38.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1363</xmin>
+			<ymin>1179</ymin>
+			<xmax>1690</xmax>
+			<ymax>1319</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>day_small_rear</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>988</xmin>
-			<ymin>619</ymin>
-			<xmax>2261</xmax>
-			<ymax>1877</ymax>
+			<xmin>1071</xmin>
+			<ymin>702</ymin>
+			<xmax>2213</xmax>
+			<ymax>1735</ymax>
 		</bndbox>
 	</object>
 </annotation>
